@@ -8,7 +8,7 @@ int main() {
     
     printf("Enter the second number: ");
     scanf("%d", &num2);
-    
+    //a;ksjdhfpasidhfcsdc;,kjasdcvjawdfadflkdfba.lkvhj
     sum = num1 + num2;
     divide=sum/2;
     
