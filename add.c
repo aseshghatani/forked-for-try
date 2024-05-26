@@ -11,8 +11,8 @@ int main() {
  //new change git
     sum = num1 + num2;
     divide=sum/2;
-    
+    //hii this is mee
     printf("The sum of %d and %d is %d and average is %d.", num1, num2, sum, divide);
-    
+    return 1;
     return 0;
 }
