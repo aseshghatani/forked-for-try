@@ -13,6 +13,6 @@ int main() {
     divide=sum/2;
     
     printf("The sum of %d and %d is %d and average is %d.", num1, num2, sum, divide);
-    
+    printf("hello this is me")
     return 0;
 }
